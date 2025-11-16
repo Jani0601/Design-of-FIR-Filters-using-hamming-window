@@ -45,6 +45,8 @@ title('Frequency Response of FIR LPF using Hamming Window');
 ```
 
 
+
+
 # OUTPUT
 <img width="1920" height="1140" alt="image" src="https://github.com/user-attachments/assets/739477a0-00d4-48ac-91ab-fe3eb9f1fbf3" />
 
